@@ -1,3 +1,2 @@
 # ProyectoDB
-Este proyecto tratara de una tienda de zapatillas
-prueba
+## Proyecto de Formación: Gestión de Repositorios y Base de Datos con Docker y PostgreSQL
