@@ -8,7 +8,7 @@
 * Conectarse a la base de datos PostgreSQL desde un gestor como DBeaver.
 * Diseñar un Diagrama Entidad-Relación para el proyecto.
 ### Que usaremos:
-* Git 
-* Docker 
-* DBeaver
-* PostgreSQL
+* Git.
+* Docker. 
+* DBeaver.
+* PostgreSQL.
