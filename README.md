@@ -6,4 +6,4 @@
 * Realizar rollback de cambios en Git.
 * Configurar y levantar un contenedor PostgreSQL utilizando Docker.
 * Conectarse a la base de datos PostgreSQL desde un gestor como DBeaver.
-* Diseñar un Diagrama Entidad-Relación (ERD) para el proyecto.
+* Diseñar un Diagrama Entidad-Relación para el proyecto.
